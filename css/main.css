@@ -10,3 +10,11 @@ body, html{
 .navbar-brad img{
   width: 150px;
 }
+
+.navbar-nav li{
+    padding-right: 20px;
+}
+
+.nav-link{
+    font-size: 1.1em !important;
+}
